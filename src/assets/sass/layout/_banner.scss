@@ -1,5 +1,5 @@
 //============================================
-// * Banner sectin start here
+// * Banner section start here
 //============================================
 
 .banner-section {
@@ -43,6 +43,7 @@
   }
 }
 .banner-thumb {
+  margin-top: 2rem;
   @include breakpoint(max-sm) {
     padding: 50px 0;
   }

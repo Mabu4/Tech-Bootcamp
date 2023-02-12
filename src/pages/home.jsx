@@ -23,7 +23,7 @@ class HomePage extends Component {
       <Fragment>
         <Header />
         <BannerSection />
-        <AboutSection imgUrl={"assets/images/about/01.png"} />
+        <AboutSection imgUrl={"assets/images/about/01_new.png"} />
         <CollectionSectionTwo />
         {/* <MatchSectionTwo /> */}
         {/* <PlayerSection /> */}
@@ -32,8 +32,8 @@ class HomePage extends Component {
         {/* <ProductSection /> */}
         {/* <HrShape /> */}
         {/* <SponsorSection /> */}
-        <BlogSection />
-        <TestimonialSection />
+        {/* <BlogSection /> */}
+        {/* <TestimonialSection /> */}
         <Footer />
       </Fragment>
     );

@@ -4,7 +4,7 @@ import { Link } from "react-router-dom";
 const title = (
   <h2 className="mb-3">
     Tritt unserem <span className="theme-color text-uppercase">Bootcamp</span>{" "}
-    bei und werde professioneller Entwickler.
+    bei und werde professioneller Entwickler!
   </h2>
 );
 

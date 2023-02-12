@@ -7,19 +7,19 @@ const desc =
 
 let AboutListContent = [
   {
-    imgUrl: "assets/images/about/icon-1.png",
+    imgUrl: "assets/images/about/counter-6.png",
     imgAlt: "About Icon",
     title: "Kostenfrei",
     desc: "Das gesamte Bootcamp ist kostenfrei und kann ohne versteckte Kosten absolviert werden.",
   },
   {
-    imgUrl: "assets/images/about/icon-2.png",
+    imgUrl: "assets/images/about/counter-8.png",
     imgAlt: "About Icon",
     title: "Peer Learning",
     desc: "Du lernst im Team und alleine Projekte umzusetzen, wodurch du genau die Skills lernst, welche du später im Beruf brauchst.",
   },
   {
-    imgUrl: "assets/images/about/icon-3.png",
+    imgUrl: "assets/images/about/counter-5.png",
     imgAlt: "About Icon",
     title: "Jobeinstieg",
     desc: "Nach erfolgreichem Abschluss erhältst du ein Zertifikat und hast ein starkes Portfolio erarbeitet, wodurch deinem Jobeinstieg nichts mehr im Wege steht.",
