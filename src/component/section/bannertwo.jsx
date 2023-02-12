@@ -4,7 +4,7 @@ import { Swiper, SwiperSlide } from 'swiper/react';
 
 let BannerListContent = [
     {
-        bgImgUrl: 'assets/images/banner/home-2/bg.jpg',
+        bgImgUrl: 'assets/images/banner/home-2/bgNew.jpg',
         title: 'Online Game',
         subtitle: 'Genuine Money Transaction',
         desc: 'Assertively communicate an expanded array of mindshare rather than diverse technologies for magnetic applications eamlessly virtual then Conveniently monetize synergistic human capital',

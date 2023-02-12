@@ -85,7 +85,7 @@ class Footer extends Component {
                         </div>
                     </div>
                 </div>
-                <div className="footer-middle padding-top padding-bottom" style={{backgroundImage: "url(/assets/images/footer/bg.jpg)"}}>
+                <div className="footer-middle padding-top padding-bottom" style={{backgroundImage: "url(/assets/images/footer/bgNew.jpg)"}}>
                     <div className="container">
                         <div className="row padding-lg-top">
                             <div className="col-lg-4 col-md-6 col-12">
