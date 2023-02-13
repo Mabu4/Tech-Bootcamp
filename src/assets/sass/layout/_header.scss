@@ -22,11 +22,11 @@
     z-index: 999;
 
     @include breakpoint(lg) {
-      top: -48px;
+      top: 0;
     }
 
     @include breakpoint(xl) {
-      top: -55px;
+      top: 0;
     }
 
     .header-holder {
