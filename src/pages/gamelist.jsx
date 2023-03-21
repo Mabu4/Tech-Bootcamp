@@ -6,17 +6,16 @@ import GameList from "../component/section/gamelist";
 import VideoSection from "../component/section/video";
 
 class GameListSection extends Component {
-    render() { 
-        return (
-            <Fragment>
-                <Header />
-                <PageHeader title={'MOST POPULAR GAME'} curPage={'MATCHE'} />
-                <GameList />
-                <VideoSection />
-                <Footer />
-            </Fragment>
-        );
-    }
+  render() {
+    return (
+      <Fragment>
+        <Header />
+        <PageHeader title={"Projekte"} curPage={"Projekte"} />
+        <GameList />
+        <Footer />
+      </Fragment>
+    );
+  }
 }
- 
+
 export default GameListSection;

@@ -3,7 +3,7 @@ import { Component } from "react";
 class PageHeaderTwo extends Component {
     render() { 
         return (
-            <section className="pageheader-section" style={{backgroundImage: "url(/assets/images/pageheader/bg.jpg)"}}>
+            <section className="pageheader-section" style={{backgroundImage: "url(/assets/images/pageheader/bgNew.jpg)"}}>
                 <div className="container">
                     <div className="section-wrapper text-center text-uppercase">
                         <div className="pageheader-thumb mb-4">

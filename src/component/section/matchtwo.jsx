@@ -2,8 +2,8 @@ import { Component } from "react";
 import { Link } from "react-router-dom";
 import SocialMedia from './socialmedia';
 
-const subtitle = "Anywhere, Anytime";
-const title = "All matches schedule";
+const subtitle = "Unsere Schüler";
+const title = "Vergangene Projekte";
 const btnText = "Browse All Matches";
 
 

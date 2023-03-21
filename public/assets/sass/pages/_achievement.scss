@@ -34,8 +34,8 @@
                     @extend %abs;
                     opacity: 0;
                     @include transition($transition);
-                    background-image: -webkit-linear-gradient(90deg, #ff0052 0%, rgba(255, 0, 82, 0) 80%);
-                    background-image: -ms-linear-gradient(90deg, #ff0052 0%, rgba(255, 0, 82, 0) 80%);
+                    background-image: -webkit-linear-gradient(90deg, #0b59be; 0%, rgba(255, 0, 82, 0) 80%);
+                    background-image: -ms-linear-gradient(90deg, #0b59be; 0%, rgba(255, 0, 82, 0) 80%);
                 }
                 &.active {
                     background-color: transparent;
